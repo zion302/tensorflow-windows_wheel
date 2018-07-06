@@ -2,7 +2,7 @@
 
 This repo contains the latest windows built for tensorflow-gpu.
 
-- tf 1.9_rc0
+- tf 1.9-rc0
 
 - Python 3.6 support (the official ci build currently only support Python 3.5)
 
