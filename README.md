@@ -1,7 +1,8 @@
 # tensorflow-windows_wheel
 
-This repo contains the latest windows built for tensorflow.
-- Python 3.6 support
+This repo contains the latest windows built for tensorflow-gpu.
+
+- Python 3.6 support (the official ci build currently only support Python 3.5)
 
 - 64 bit Windows support
 
@@ -11,4 +12,4 @@ This repo contains the latest windows built for tensorflow.
 |-|-|-|-|-|
 | tensorflow_gpu-1.9.0rc0-cp36-cp36m-win_amd64.whl https://pan.baidu.com/s/1qFpYDO5RrTZDv2ErX8tjiQ  access code: ytao   https://download.csdn.net/download/zion302/10522873| VS2015 | 9.0/7 | x86_64 / AVX| Python 3.6/Compute 5.0 |
 
-For other windows builds: https://github.com/fo40225/tensorflow-windows-wheel
+For other windows builds with CUDA9.1 or CUDA8.0 support: https://github.com/fo40225/tensorflow-windows-wheel
